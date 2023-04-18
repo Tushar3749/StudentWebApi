@@ -21,7 +21,7 @@ namespace StudentWebApp.Controllers
         public List<Student> GetAllStudent()
         {
             return this.student.getAllStudents();
-
+             
         }
       
         [HttpPost]
