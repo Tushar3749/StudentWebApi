@@ -8,7 +8,12 @@ namespace StudentWebApp.Controllers
     public class DepartmentsController : ControllerBase
     {
         string d = "Hello";
-        
+        string data = "abc";
+
+
+
+
+
 
     }
 }
