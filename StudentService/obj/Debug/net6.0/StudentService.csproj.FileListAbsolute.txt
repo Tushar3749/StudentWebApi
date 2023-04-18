@@ -1,0 +1,5 @@
+D:\LABAID PROJECTS\StudentWebApp\StudentService\obj\Debug\net6.0\StudentService.csproj.AssemblyReference.cache
+D:\LABAID PROJECTS\StudentWebApp\StudentService\obj\Debug\net6.0\StudentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\LABAID PROJECTS\StudentWebApp\StudentService\obj\Debug\net6.0\StudentService.AssemblyInfoInputs.cache
+D:\LABAID PROJECTS\StudentWebApp\StudentService\obj\Debug\net6.0\StudentService.AssemblyInfo.cs
+D:\LABAID PROJECTS\StudentWebApp\StudentService\obj\Debug\net6.0\StudentService.csproj.CoreCompileInputs.cache
